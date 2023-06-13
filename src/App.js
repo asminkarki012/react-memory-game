@@ -20,13 +20,12 @@ function App() {
     setAlreadyClickId((prev) => [...prev, id]);
     if (alreadyClickId.includes(id)) {
       setGameOver(true);
-      setScore(0);
       setBestScore(bestScore > score ? bestScore : score);
       setAlreadyClickId([]);
     } else {
       setScore(score + 1);
     }
-    if (score === CHARACTERS.length-1) {
+    if (score === CHARACTERS.length - 1) {
       setWinner(true);
       setAlreadyClickId([]);
     }
@@ -34,6 +33,7 @@ function App() {
 
   const retryButtonHandler = () => {
     setScore(0);
+    setBestScore(bestScore > score ? bestScore : score);
     setGameOver(false);
     setWinner(false);
   };
