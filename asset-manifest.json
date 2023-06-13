@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/asminkarki012/react-memory-game/static/css/main.6f092482.css",
+    "main.js": "/asminkarki012/react-memory-game/static/js/main.77116c58.js",
+    "static/js/787.9efe5ded.chunk.js": "/asminkarki012/react-memory-game/static/js/787.9efe5ded.chunk.js",
+    "static/media/darksoul-logo.jpg": "/asminkarki012/react-memory-game/static/media/darksoul-logo.9cd50e64de1ac0f3dd45.jpg",
+    "index.html": "/asminkarki012/react-memory-game/index.html",
+    "main.6f092482.css.map": "/asminkarki012/react-memory-game/static/css/main.6f092482.css.map",
+    "main.77116c58.js.map": "/asminkarki012/react-memory-game/static/js/main.77116c58.js.map",
+    "787.9efe5ded.chunk.js.map": "/asminkarki012/react-memory-game/static/js/787.9efe5ded.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f092482.css",
+    "static/js/main.77116c58.js"
+  ]
+}
