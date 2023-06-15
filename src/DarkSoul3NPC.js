@@ -51,14 +51,14 @@ export const CHARACTERS = [
     name: "LUDLETH OF COURLAND",
     url: "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/ludleth_of_courland_small.jpg",
   },
-  {
-    id: 10,
-    name: "ALDRITCH DEVOURER OF GODS",
-    url: "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/lord_of_cinder_aldritch_devourer_of_gods.PNG",
-  },
   // {
-  //   id: 11,
-  //   name: "DANCER OF THE BOREAL VALLEY",
-  //   url: "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/dancer_of_the_boreal_valley_trophy.PNG",
+  //   id: 10,
+  //   name: "ALDRITCH DEVOURER OF GODS",
+  //   url: "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/lord_of_cinder_aldritch_devourer_of_gods.PNG",
   // },
+  {
+    id: 11,
+    name: "DANCER OF THE BOREAL VALLEY",
+    url: "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/dancer_of_the_boreal_valley_trophy.PNG",
+  },
 ];
