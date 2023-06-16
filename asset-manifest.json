@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-memorygame/static/css/main.6f092482.css",
-    "main.js": "/react-memorygame/static/js/main.ac8d7b2c.js",
-    "static/js/787.d8f3d465.chunk.js": "/react-memorygame/static/js/787.d8f3d465.chunk.js",
-    "static/media/darksoul-logo.jpg": "/react-memorygame/static/media/darksoul-logo.9cd50e64de1ac0f3dd45.jpg",
-    "index.html": "/react-memorygame/index.html",
-    "main.6f092482.css.map": "/react-memorygame/static/css/main.6f092482.css.map",
-    "main.ac8d7b2c.js.map": "/react-memorygame/static/js/main.ac8d7b2c.js.map",
-    "787.d8f3d465.chunk.js.map": "/react-memorygame/static/js/787.d8f3d465.chunk.js.map"
+    "main.css": "/react-memory-game/static/css/main.6f092482.css",
+    "main.js": "/react-memory-game/static/js/main.3f166628.js",
+    "static/js/787.d8f3d465.chunk.js": "/react-memory-game/static/js/787.d8f3d465.chunk.js",
+    "static/media/darksoul-logo.jpg": "/react-memory-game/static/media/darksoul-logo.9cd50e64de1ac0f3dd45.jpg",
+    "index.html": "/react-memory-game/index.html",
+    "main.6f092482.css.map": "/react-memory-game/static/css/main.6f092482.css.map",
+    "main.3f166628.js.map": "/react-memory-game/static/js/main.3f166628.js.map",
+    "787.d8f3d465.chunk.js.map": "/react-memory-game/static/js/787.d8f3d465.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6f092482.css",
-    "static/js/main.ac8d7b2c.js"
+    "static/js/main.3f166628.js"
   ]
 }
